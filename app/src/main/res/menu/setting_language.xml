@@ -11,4 +11,10 @@
         android:orderInCategory="200"
         android:title="@string/lng_item_en"
         app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item_sys"
+        android:orderInCategory="200"
+        android:title="@string/test"
+        app:showAsAction="never" />
 </menu>
