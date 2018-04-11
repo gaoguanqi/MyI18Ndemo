@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">我的I18N例子</string>
+    <string name="test">你好，世界!</string>
+    <string name="setting_language">长按设置语言</string>
+    <string name="lng_item_zh">中文</string>
+    <string name="lng_item_en">英文</string>
+</resources>

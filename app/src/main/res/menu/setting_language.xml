@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_zh"
+        android:orderInCategory="100"
+        android:title="@string/lng_item_zh"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item_en"
+        android:orderInCategory="200"
+        android:title="@string/lng_item_en"
+        app:showAsAction="never" />
+</menu>

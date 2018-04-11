@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyI18Ndemo</string>
+    <string name="test">Hello World!(英文)</string>
+    <string name="setting_language">长按设置语言(英文)</string>
+    <string name="lng_item_zh">中文</string>
+    <string name="lng_item_en">英文</string>
+</resources>
